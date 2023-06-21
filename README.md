@@ -1,5 +1,5 @@
 # my_xmonad_config
-Here are my configuration files for xmonad.
+My configuration files for xmonad.
 
 ## Installation requirements
 - rofi menu
